@@ -4,5 +4,3 @@ Product Landing Page using tailwind
 ![Screenshot 2025-02-16 174654](https://github.com/user-attachments/assets/a6c77b6a-c320-4175-b70e-2eba17b527d5)
 
 
-
-hi this my page 
